@@ -2,7 +2,6 @@
 
 - 🐱‍👤 Web Hacking and Vuln Explainer. 
 - 🤹‍♂️ Studying to be pentester however, a little black hat oscuro is good xD
-- 💲 I love money
 
 <div align="center">
   <a href="https://github.com/x0pkz1x">
