@@ -4,7 +4,7 @@
 - 🤹‍♂️ Studying to be pentester however, a little black hat oscuro is good xD
 <div align="center">
   <a href="https://github.com/x0pkz1x">
-  <img height="146em" src="https://github-readme-stats.vercel.app/api?username=x0pkz1x&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=x0pkz1x&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
   ##
 
